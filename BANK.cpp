@@ -1,4 +1,3 @@
-﻿//ms.X
 #include <iostream>
 #include <string>
 #include <vector>
