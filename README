@@ -9,5 +9,3 @@ Available features:
 - Update client data (PIN, name, phone, balance)
 - Search for a client by account number
 - Deposit, withdraw, and view total balances
-
-Data is saved in a text file (`clientsinfo.txt`), with fields separated by `#//#`.
